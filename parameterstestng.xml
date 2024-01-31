@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Test Parameter ">
+	
+	<test thread-count="1" name="Check working of testing parameters">
+		
+			
+	<parameter name="browser" value="Mozilla"></parameter>
+	<parameter name="userName" value="RamRam55@gmail.com"></parameter>
+	<parameter name="password" value="Testng@12345"></parameter>
+	
+		
+		<classes>
+			<class name="TestParameters"></class>
+			
+		</classes>
+	</test>
+</suite>
