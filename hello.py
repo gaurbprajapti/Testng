@@ -10,3 +10,4 @@ rpint("conflits")
 print("not wnat to add")
 
 print("rebase check form main")
+print("hello main rebase")
