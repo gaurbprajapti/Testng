@@ -5,8 +5,7 @@ print("3nd commit ")
 print("hello 4")
 print("hello form main")
 
-for i in range (8):
-    print("rcrm")
+rpint("conflits")
 
 print("not wnat to add")
 
